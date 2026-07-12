@@ -1,98 +1,87 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" fill="none">
-  <!-- Dark Mode SVG -->
-  <defs>
-    <!-- Main Glass Panel -->
-    <filter id=" glass" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="12" result="blur"/>
-      <feColorMatrix type="matrix" values="1 0 0 0 0.03 0 1 0 0 0 0 0 1 0 0 0 0 0 0.75 0"/>
-    </filter>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg" />
+    <img
+      alt="Mohit Boura — Data Analyst • AI Developer • Full Stack"
+      src="./assets/dark.svg"
+      width="100%"
+    />
+  </picture>
+</div>
 
-    <!-- Border Shimmer -->
-    <filter id="shimmer" x="-50%" y="-50%" width="200%" height="200%">
-      <feTurbulence type=" 2" baseFrequency="0.05" numOctaves="3" result="turb"/>
-      <feDisplacementMap in="SourceGraphic" in2="turb" scale="3" xChannelSelector="R" yChannelSelector="G"/>
-    </filter>
+<br/>
 
-    <!-- ASCII Gradient -->
-    <linear gradient id="asciiGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#22D3EE"/>
-      <stop offset="50%" stop-color="#7C3AED"/>
-      <stop offset="100%" stop-color="#10B981"/>
-    </linearGradient>
+<div align="center">
 
-    <!-- Accent Gradient -->
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#7C3AED"/>
-      <stop offset="50%" stop-color="#22D3EE"/>
-      <stop offset="100%" stop-color="#10B981"/>
-    </linearGradient>
+### 👋 Hi, I'm **Mohit Boura**
 
-    <!-- Glow Filter -->
-    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
-      <feGaussianBlur stdDeviation="8" result="glow"/>
-      <feMerge>
-        <feMergeNode in="glow"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
+**Data Analyst · AI Developer · Full Stack Developer · ML Engineer**
 
-    <!-- Scanline -->
-    <filter id="scan" x="0" y="0" width=" 100%" height="100%">
-      <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="3" result="noise"/>
-      <feColorMatrix type="matrix" values="1 0 0 0 0 0 1 0 0  0 0 0 1 0 0 0 0 0 0.15 0"/>
-    </filter>
+📍 Uttarakhand, India &nbsp;•&nbsp; 🎓 B.Com (Analytics & Technology)
 
-    <!-- Particles -->
-    <radialGradient id="particle" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#22 D3EE" stop-opacity="0.6"/>
-      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
-    </radialGradient>
+</div>
 
-    <!-- Rounded Corners -->
-    <clipPath id="panel">
-      <rect rx="16" ry="16"/>
-    </clipPath >
-  </defs>
+---
 
-  <!-- Background -->
-  <rect width="1180" height="610" fill="#030712" rx="24"/>
+### 🚀 About Me
 
-  <!-- Floating Radial Glows -->
-  <circle cx="180" cy="120" r="220" fill="url(#particle)">
-    <animate attributeName=" cx" values="180;220;180" dur="14s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="120;160;120" dur="16s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="920" cy="480 " r="180" fill="url(#particle)">
-    <animate attributeName="cx" values="920;880;920" dur="18s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="480;520;480" dur="15s" repeatCount="ind ef inite"/>
-  </circle>
+- 🔭 Currently building **AI Applications**, **Machine Learning** & **Computer Vision** projects  
+- 🌱 Deep diving into **Generative AI**, **Data Analytics** & **Open Source**  
+- 💻 Tech stack: Python, TensorFlow, OpenCV, React, Next.js, Node.js, SQL, Power BI  
+- ⚡ Love turning data into intelligent products  
 
-  <!-- Noise Texture -->
-  <rect width="1180" height="610" filter="url(#scan)" opacity="0.35"/>
+---
 
-  <!-- Main Glass Container -->
-  <rect x="24" y="24" width="1132" height="562" rx ="24" fill="#0F172A" fill-opacity="0.75" filter="url(#glass)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+### 🛠️ Tech Stack
 
-  <!-- Border Shimmer -->
-  <rect x="24" y="24" width="1132" height="562" rx="24" fill="none" stroke="url(#accent)" stroke-width="1.5">
-    <animate attributeName="stroke-dashoffset" values="0; 300" dur="3s" repeatCount="indefinite"/>
-  </rect>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-  <!-- LEFT PANEL - 38% -->
-  <rect x="48" y="48" width="428" height="514" rx="16" fill="#0F172A" fill-opacity="0.85" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+---
 
-  <!-- Left Panel Reflection -->
-  <path d="M48 60 Q 140 40 220 60 L 220 110 Q 140 85 48 110 Z" fill="white" opacity="0.04"/>
+### 🔗 Connect with me
 
-  <!-- ASCII Portrait Container -->
-  <g transform="translate(70, 70)">
-    <!-- Reveal Clip -->
-    <clipPath id="asciiClip">
-      <rect x="0" y="0" width="380" height="0">
-        <animate attributeName="height" from="0" to="380" dur="4.2s" fill="freeze"/>
-      </rect>
-    </clipPath>
+<p align="center">
+  <a href="https://github.com/mohitboura342-ui">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mohit-boura-558382379">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/mohitboura342-ui">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-    <!-- ASCII Art (revealed line-by-line) -->
-    <g clip-path="url(#asciiClip)">
-      <text font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="8.
+---
+
+<div align="center">
+
+⭐️ From [mohitboura342-ui](https://github.com/mohitboura342-ui)
+
+</div>
