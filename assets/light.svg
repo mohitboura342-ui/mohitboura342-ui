@@ -1,1 +1,145 @@
-<svg xmlns="http://www.w3.
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 610" width="1180" height="610">
+  <defs>
+    <linearGradient id="ag" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="50%" stop-color="#06B6D4"/>
+      <stop offset="100%" stop-color="#10B981"/>
+    </linearGradient>
+    <linearGradient id="as" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="20%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1180" height="610" rx="22" fill="#FFFFFF"/>
+  <rect width="1180" height="610" rx="22" fill="url(#g1)"/>
+  <rect x="1" y="1" width="1178" height="608" rx="21" fill="none" stroke="rgba(15,23,42,0.1)" stroke-width="1"/>
+
+  <!-- LEFT PANEL -->
+  <rect x="24" y="24" width="390" height="562" rx="16" fill="#F8FAFC" stroke="rgba(15,23,42,0.08)"/>
+  <rect x="24" y="24" width="390" height="34" rx="16" fill="#F1F5F9"/>
+  <rect x="24" y="41" width="390" height="17" fill="#F1F5F9"/>
+  <circle cx="44" cy="41" r="5" fill="#EF4444"/>
+  <circle cx="62" cy="41" r="5" fill="#EAB308"/>
+  <circle cx="80" cy="41" r="5" fill="#22C55E"/>
+  <text x="219" y="46" text-anchor="middle" fill="#64748B" font-family="monospace" font-size="11">portrait.exe</text>
+
+  <g font-family="monospace" font-size="9" fill="url(#as)">
+    <text x="70" y="100">    ████████████████</text>
+    <text x="70" y="116">  ████████████████████</text>
+    <text x="70" y="132"> ████  ████████  ████</text>
+    <text x="70" y="148">████  ██████████  ████</text>
+    <text x="70" y="164">████  ██████████  ████</text>
+    <text x="70" y="180">██████████████████████</text>
+    <text x="70" y="196">████  ████  ████  ████</text>
+    <text x="70" y="212">████  ████  ████  ████</text>
+    <text x="70" y="228">██████████████████████</text>
+    <text x="70" y="244"> ████████  ████████</text>
+    <text x="70" y="260">  ████████████████</text>
+    <text x="70" y="276">   ██████████████</text>
+    <text x="70" y="292">    ████████████</text>
+    <text x="70" y="308">     ██████████</text>
+    <text x="70" y="324">      ████████</text>
+    <text x="70" y="340">       ██████</text>
+    <text x="70" y="356">        ████</text>
+  </g>
+
+  <text x="219" y="400" text-anchor="middle" fill="#2563EB" font-family="monospace" font-size="14" font-weight="700">MOHIT BOURA</text>
+  <text x="219" y="425" text-anchor="middle" fill="#64748B" font-family="monospace" font-size="11">AI · ML · Full Stack</text>
+  <text x="219" y="520" text-anchor="middle" fill="#2563EB" font-family="monospace" font-size="11">● SYSTEM ONLINE</text>
+  <text x="219" y="545" text-anchor="middle" fill="#94A3B8" font-family="monospace" font-size="10">v2.0 // Uttarakhand</text>
+
+  <!-- RIGHT PANEL -->
+  <rect x="434" y="24" width="722" height="562" rx="16" fill="#F8FAFC" stroke="rgba(15,23,42,0.08)"/>
+  <rect x="434" y="24" width="722" height="36" rx="16" fill="#F1F5F9"/>
+  <rect x="434" y="42" width="722" height="18" fill="#F1F5F9"/>
+  <circle cx="456" cy="42" r="5.5" fill="#EF4444"/>
+  <circle cx="476" cy="42" r="5.5" fill="#EAB308"/>
+  <circle cx="496" cy="42" r="5.5" fill="#22C55E"/>
+  <text x="795" y="47" text-anchor="middle" fill="#64748B" font-family="monospace" font-size="12">mohit@boura:~</text>
+
+  <text x="470" y="100" fill="#0F172A" font-family="system-ui,sans-serif" font-size="30" font-weight="600">Hi 👋</text>
+  <text x="470" y="145" fill="#0F172A" font-family="system-ui,sans-serif" font-size="28" font-weight="700">I'm <tspan fill="url(#ag)">Mohit Boura</tspan></text>
+
+  <text x="470" y="190" fill="#64748B" font-family="monospace" font-size="15">$ role:</text>
+  <text x="545" y="190" fill="#2563EB" font-family="monospace" font-size="17" font-weight="600">Data Analyst | AI Developer | Full Stack</text>
+
+  <text x="470" y="245" fill="#0F172A" font-family="system-ui,sans-serif" font-size="14" font-weight="600">📍 Location</text>
+  <text x="590" y="245" fill="#475569" font-family="system-ui,sans-serif" font-size="14">Uttarakhand, India</text>
+
+  <text x="470" y="280" fill="#0F172A" font-family="system-ui,sans-serif" font-size="14" font-weight="600">🎓 Education</text>
+  <text x="590" y="280" fill="#475569" font-family="system-ui,sans-serif" font-size="14">B.Com (Analytics &amp; Technology)</text>
+  <text x="590" y="302" fill="#64748B" font-family="system-ui,sans-serif" font-size="12">Uttarakhand Open University</text>
+
+  <text x="470" y="345" fill="#0F172A" font-family="system-ui,sans-serif" font-size="14" font-weight="600">🎯 Focus</text>
+  <text x="560" y="345" fill="#4F46E5" font-family="system-ui,sans-serif" font-size="14">AI Apps · ML · Computer Vision · Generative AI</text>
+
+  <text x="470" y="380" fill="#0F172A" font-family="system-ui,sans-serif" font-size="14" font-weight="600">🔗 Portfolio</text>
+  <text x="590" y="380" fill="#2563EB" font-family="system-ui,sans-serif" font-size="14">github.com/mohitboura342-ui</text>
+
+  <text x="470" y="415" fill="#0F172A" font-family="system-ui,sans-serif" font-size="14" font-weight="600">✉️ Email</text>
+  <text x="560" y="415" fill="#475569" font-family="system-ui,sans-serif" font-size="14">your-email@example.com</text>
+
+  <text x="470" y="460" fill="#0F172A" font-family="system-ui,sans-serif" font-size="13" font-weight="600">Skills</text>
+
+  <rect x="470" y="475" width="58" height="24" rx="12" fill="rgba(37,99,235,0.08)" stroke="#2563EB"/>
+  <text x="499" y="491" text-anchor="middle" fill="#1D4ED8" font-family="monospace" font-size="11">Python</text>
+
+  <rect x="536" y="475" width="58" height="24" rx="12" fill="rgba(6,182,212,0.08)" stroke="#06B6D4"/>
+  <text x="565" y="491" text-anchor="middle" fill="#0E7490" font-family="monospace" font-size="11">Pandas</text>
+
+  <rect x="602" y="475" width="54" height="24" rx="12" fill="rgba(16,185,129,0.08)" stroke="#10B981"/>
+  <text x="629" y="491" text-anchor="middle" fill="#047857" font-family="monospace" font-size="11">NumPy</text>
+
+  <rect x="664" y="475" width="82" height="24" rx="12" fill="rgba(37,99,235,0.08)" stroke="#2563EB"/>
+  <text x="705" y="491" text-anchor="middle" fill="#1D4ED8" font-family="monospace" font-size="11">Scikit-Learn</text>
+
+  <rect x="754" y="475" width="78" height="24" rx="12" fill="rgba(6,182,212,0.08)" stroke="#06B6D4"/>
+  <text x="793" y="491" text-anchor="middle" fill="#0E7490" font-family="monospace" font-size="11">TensorFlow</text>
+
+  <rect x="840" y="475" width="62" height="24" rx="12" fill="rgba(16,185,129,0.08)" stroke="#10B981"/>
+  <text x="871" y="491" text-anchor="middle" fill="#047857" font-family="monospace" font-size="11">OpenCV</text>
+
+  <rect x="910" y="475" width="42" height="24" rx="12" fill="rgba(37,99,235,0.08)" stroke="#2563EB"/>
+  <text x="931" y="491" text-anchor="middle" fill="#1D4ED8" font-family="monospace" font-size="11">SQL</text>
+
+  <rect x="960" y="475" width="66" height="24" rx="12" fill="rgba(6,182,212,0.08)" stroke="#06B6D4"/>
+  <text x="993" y="491" text-anchor="middle" fill="#0E7490" font-family="monospace" font-size="11">Power BI</text>
+
+  <rect x="470" y="508" width="68" height="24" rx="12" fill="rgba(16,185,129,0.08)" stroke="#10B981"/>
+  <text x="504" y="524" text-anchor="middle" fill="#047857" font-family="monospace" font-size="11">Streamlit</text>
+
+  <rect x="546" y="508" width="50" height="24" rx="12" fill="rgba(37,99,235,0.08)" stroke="#2563EB"/>
+  <text x="571" y="524" text-anchor="middle" fill="#1D4ED8" font-family="monospace" font-size="11">Flask</text>
+
+  <rect x="604" y="508" width="52" height="24" rx="12" fill="rgba(6,182,212,0.08)" stroke="#06B6D4"/>
+  <text x="630" y="524" text-anchor="middle" fill="#0E7490" font-family="monospace" font-size="11">React</text>
+
+  <rect x="664" y="508" width="60" height="24" rx="12" fill="rgba(16,185,129,0.08)" stroke="#10B981"/>
+  <text x="694" y="524" text-anchor="middle" fill="#047857" font-family="monospace" font-size="11">Next.js</text>
+
+  <rect x="732" y="508" width="58" height="24" rx="12" fill="rgba(37,99,235,0.08)" stroke="#2563EB"/>
+  <text x="761" y="524" text-anchor="middle" fill="#1D4ED8" font-family="monospace" font-size="11">Node.js</text>
+
+  <rect x="798" y="508" width="76" height="24" rx="12" fill="rgba(6,182,212,0.08)" stroke="#06B6D4"/>
+  <text x="836" y="524" text-anchor="middle" fill="#0E7490" font-family="monospace" font-size="11">TypeScript</text>
+
+  <rect x="882" y="508" width="58" height="24" rx="12" fill="rgba(16,185,129,0.08)" stroke="#10B981"/>
+  <text x="911" y="524" text-anchor="middle" fill="#047857" font-family="monospace" font-size="11">Docker</text>
+
+  <rect x="948" y="508" width="46" height="24" rx="12" fill="rgba(37,99,235,0.08)" stroke="#2563EB"/>
+  <text x="971" y="524" text-anchor="middle" fill="#1D4ED8" font-family="monospace" font-size="11">AWS</text>
+
+  <rect x="470" y="548" width="90" height="28" rx="8" fill="rgba(15,23,42,0.04)" stroke="rgba(15,23,42,0.12)"/>
+  <text x="515" y="566" text-anchor="middle" fill="#0F172A" font-family="system-ui,sans-serif" font-size="12">GitHub</text>
+
+  <rect x="570" y="548" width="100" height="28" rx="8" fill="rgba(37,99,235,0.08)" stroke="#2563EB"/>
+  <text x="620" y="566" text-anchor="middle" fill="#2563EB" font-family="system-ui,sans-serif" font-size="12">LinkedIn</text>
+
+  <rect x="680" y="548" width="100" height="28" rx="8" fill="rgba(79,70,229,0.08)" stroke="#4F46E5"/>
+  <text x="730" y="566" text-anchor="middle" fill="#4F46E5" font-family="system-ui,sans-serif" font-size="12">Portfolio</text>
+</svg>
