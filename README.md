@@ -1,3 +1,4 @@
+![Mohit Boura](https://raw.githubusercontent.com/mohitboura342-ui/mohitboura342-ui/main/dark.svg)
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitboura342-ui/mohitboura342-ui/main/dark.svg">
