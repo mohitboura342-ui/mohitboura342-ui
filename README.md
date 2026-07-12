@@ -20,7 +20,6 @@
 
 ```python
 class MohitBoura():
-
     def __init__(self):
         self.name = "Mohit Boura"
         self.country = "India 🇮🇳"
@@ -55,17 +54,13 @@ class MohitBoura():
 ### Programming
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js"/>
-
 </p>
 
 ### AI & Data Science
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
 </p>
 
 - Pandas
@@ -82,9 +77,7 @@ class MohitBoura():
 ### Web Development
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,wordpress,firebase"/>
-
 </p>
 
 ---
@@ -92,9 +85,7 @@ class MohitBoura():
 ### Database
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=mysql"/>
-
 </p>
 
 ---
@@ -102,9 +93,7 @@ class MohitBoura():
 ### Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux"/>
-
 </p>
 
 ---
