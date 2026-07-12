@@ -1,83 +1,93 @@
-<div align="center">
+# <div align="center">
 
-# 👋 Hi, I'm Mohit Boura
+# Hi 👋 I'm **Mohit Boura**
 
-### 🚀 AI Engineer • Data Analyst • Data Scientist • Full Stack Developer
+### **Data Analyst • AI Developer • Full Stack Developer • Open Source Enthusiast**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Building+AI+Projects;Machine+Learning+Engineer;Data+Science+Enthusiast;Python+Developer;Open+Source+Learner;Always+Learning+New+Things" />
+<img src="assets/dark.svg" width="100%" alt="Mohit Boura Banner"/>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=mohitboura342-ui&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/mohitboura342-ui?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/mohitboura342-ui?style=for-the-badge"/>
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Data+Analyst;AI+Developer;Full+Stack+Developer;Computer+Vision+Enthusiast;Machine+Learning+Explorer;Building+Projects+That+Matter" />
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/mohitboura342-ui">
+<img src="https://img.shields.io/github/followers/mohitboura342-ui?style=for-the-badge&logo=github&color=7C3AED"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=mohitboura342-ui&style=for-the-badge&color=22D3EE"/>
+
 </p>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🚀 About Me
 
-```python
-class MohitBoura():
-    def __init__(self):
-        self.name = "Mohit Boura"
-        self.country = "India 🇮🇳"
-        self.education = "B.Com + Analytics"
-        self.role = "AI Developer"
+```yaml
+Name: Mohit Boura
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Data Science",
-            "Computer Vision",
-            "LLMs",
-            "Web Development",
-            "Open Source"
-        ]
+Location: Uttarakhand, India
 
-    def current_focus(self):
-        return [
-            "Building AI Projects",
-            "Learning MLOps",
-            "Data Analysis",
-            "GitHub Portfolio",
-            "Real-world AI Applications"
-        ]
+Education:
+  - B.Com
+  - Analytics & Technology
+
+Currently Working On:
+  - AI Applications
+  - Data Analytics
+  - Machine Learning
+  - Computer Vision
+  - Full Stack Development
+
+Learning:
+  - Deep Learning
+  - LLMs
+  - RAG Systems
+  - MLOps
+  - Cloud Deployment
+
+Passionate About:
+  - Artificial Intelligence
+  - Data Science
+  - Automation
+  - Open Source
 ```
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Tech Stack
 
 ### Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js"/>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp"/>
+
 </p>
-
-### AI & Data Science
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
-
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- XGBoost
-- OpenCV
-- Streamlit
 
 ---
 
-### Web Development
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,wordpress,firebase"/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+
+</p>
+
+---
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
+
 </p>
 
 ---
@@ -85,131 +95,183 @@ class MohitBoura():
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+
 </p>
+
+---
+
+### AI • Data Science
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+* Pandas
+* NumPy
+* Scikit-Learn
+* Matplotlib
+* Seaborn
+* TensorFlow
+* OpenCV
+* Streamlit
 
 ---
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,vercel"/>
+
 </p>
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohitboura342-ui&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitboura342-ui&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitboura342-ui&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitboura342-ui&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 📊 Contribution Graph
+# 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mohitboura342-ui&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitboura342-ui&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
-## 📊 Data Science
+## 📊 Smart CSV Data Explorer
 
-- 📈 Telecom Customer Churn Prediction
-- 🚖 Uber Data Analysis
-- 🛒 E-Commerce Sales Dashboard
-- ✈ Flight Delay Prediction
-- 🚗 Used Car Price Prediction
+AI-powered data analysis application featuring:
 
----
-
-## 🤖 AI Projects
-
-- AI Financial Advisor
-- Smart CSV Analyzer
-- AI Resume Analyzer
-- AI Chatbot
-- Face Recognition
-- Object Detection
-- Car Speed Detection
-- OCR Document Reader
+* Automatic EDA
+* Missing Value Analysis
+* Correlation Heatmaps
+* Interactive Charts
+* Outlier Detection
+* Report Generation
 
 ---
 
-## 🌐 Web Projects
+## 🚗 Vehicle Speed Detection
 
-- Portfolio Website
-- Business Websites
-- Landing Pages
-- WordPress Websites
-- Responsive UI Designs
+Computer Vision project using AI to:
+
+* Detect Vehicles
+* Track Objects
+* Estimate Speed
+* Real-Time Analytics
 
 ---
 
-# 🌱 Currently Learning
+## 📦 E-Commerce Analytics
 
-- Large Language Models
-- LangChain
-- RAG
-- AI Agents
-- MLOps
-- Docker
-- Kubernetes
-- AWS
-- Azure
-- Generative AI
+Comprehensive analytics dashboard including:
+
+* Customer Segmentation
+* Sales Forecasting
+* KPI Dashboard
+* Business Intelligence
+
+---
+
+## 📈 Flight Delay Prediction
+
+Machine Learning project covering:
+
+* Data Cleaning
+* Exploratory Data Analysis
+* Feature Engineering
+* Predictive Modeling
+
+---
+
+## 📉 Telecom Customer Churn Analysis
+
+End-to-end EDA project including:
+
+* Customer Insights
+* Churn Patterns
+* Visualization
+* Business Recommendations
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohitboura342-ui&theme=tokyonight&no-frame=true&column=7"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+* 🤖 Large Language Models
+* 🧠 Deep Learning
+* ☁️ AWS Cloud
+* 🐳 Docker
+* ⚙️ MLOps
+* 🔥 LangChain
+* 🧩 RAG Systems
+* 👁️ Computer Vision
 
 ---
 
 # 🎯 2026 Goals
 
-- ⭐ Build 50+ AI Projects
-- ⭐ Contribute to Open Source
-- ⭐ Master Machine Learning
-- ⭐ Learn Deep Learning
-- ⭐ Build SaaS Products
-- ⭐ Publish Research Projects
-- ⭐ Reach 1000 GitHub Followers
+* Build 50+ AI Projects
+* Contribute to Open Source
+* Publish Research Projects
+* Master Deep Learning
+* Learn Kubernetes
+* Build Production AI Applications
+* Grow GitHub Community
+* Help Developers Through Open Source
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohitboura342-ui&theme=tokyonight&no-frame=true&column=4"/>
-
-</div>
-
----
-
-# 📫 Connect With Me
+# 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://github.com/mohitboura342-ui">
+
 <img src="https://skillicons.dev/icons?i=github"/>
+
 </a>
 
 <a href="https://linkedin.com/in/mohit-boura-558382379">
+
 <img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
 </p>
@@ -218,14 +280,8 @@ class MohitBoura():
 
 <div align="center">
 
-## 💡 Quote
+## ⭐ *"Turning Data into Insights, Ideas into Products, and Code into Impact."*
 
-*"Success isn't about knowing everything. It's about learning something new every day."*
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Build+Something+Amazing+Together!"/>
 
 </div>
